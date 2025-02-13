@@ -1,0 +1,1 @@
+self.assertEquals("fixme", items[0].name)
